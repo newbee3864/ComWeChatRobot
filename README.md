@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # 描述
 PC微信机器人，实现以下功能：
 1. 获取通讯录
